@@ -1,7 +1,7 @@
 # Finding Identical Images in a Directory without sophisticated Deep Learning Algo’s?#
 
-##When it comes to images, the only concept which strikes our brain is Deep Learning. So, in this blog I’ll be sharing a sophisticated algorithm, 
-not as convenient and powerful as Deep Learning Algo’s.##
+**When it comes to images, the only concept which strikes our brain is Deep Learning. So, in this blog I’ll be sharing a sophisticated algorithm, 
+not as convenient and powerful as Deep Learning Algo’s.**
 
 
 While writing a program on computer vision, I came across a problem which was about duplication of images. 
@@ -12,7 +12,7 @@ Ever wondered, how computers stores Images? After all, Computers are just a piec
 Well, It is simple. As you are, aware that Images are series of pixels amalgamated in a bounding region, which, in mathematical terms is called a “Matrix”. 
 
 
-But, How do I find Similar or Duplicate Images?
+**But, How do I find Similar or Duplicate Images?**
 
 Yes, It is indeed exciting! As said earlier, Image is usually represented as series of Integers in their respective channels. 
 Therefore, we would be evaluating the Integers / Pixel Values to find similarity between Images.
@@ -22,12 +22,12 @@ First, we must understand a statistical concept, which is often used in various 
 
 But you might wonder, how is “Mean” actually used in processing Images? You might answer yourself at the end of this article.
 
-***But, How do I code it?***
+**But, How do I code it?**
 
 To demonstrate this, We’ll be using Python, as it has numerous Built-In Libraries to perform Statistical and Mathematical Problems.
 
 
-Libraries required:
+**Libraries required:**
 
 
 1.    NumPy
@@ -42,3 +42,4 @@ of non-negative integers.
 OpenCV is a library written in C++ and it mainly aims in the field of computer vision. But, concepts of Computer Vision will not be covered,
 rather it will be used to Process Images.
 
+**Have a look into the code**
