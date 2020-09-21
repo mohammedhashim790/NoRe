@@ -1,4 +1,4 @@
-# Finding Identical Images in a Directory without sophisticated Deep Learning Algo’s?#
+# Finding Identical Images in a Directory without sophisticated Deep Learning Algo’s?
 
 **When it comes to images, the only concept which strikes our brain is Deep Learning. So, in this blog I’ll be sharing a sophisticated algorithm, 
 not as convenient and powerful as Deep Learning Algo’s.**
