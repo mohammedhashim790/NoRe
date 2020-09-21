@@ -22,7 +22,7 @@ First, we must understand a statistical concept, which is often used in various 
 
 But you might wonder, how is “Mean” actually used in processing Images? You might answer yourself at the end of this article.
 
-***But, How do I code it?
+***But, How do I code it?***
 
 To demonstrate this, We’ll be using Python, as it has numerous Built-In Libraries to perform Statistical and Mathematical Problems.
 
