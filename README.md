@@ -1,6 +1,6 @@
 # Finding Identical Images in a Directory without sophisticated Deep Learning Algo’s?
 
-***When it comes to images, the only concept which strikes our brain is Deep Learning. So, in this blog I’ll be sharing a sophisticated algorithm, 
+######When it comes to images, the only concept which strikes our brain is Deep Learning. So, in this blog I’ll be sharing a sophisticated algorithm, 
 not as convenient and powerful as Deep Learning Algo’s.
 
 
@@ -12,7 +12,7 @@ Ever wondered, how computers stores Images? After all, Computers are just a piec
 Well, It is simple. As you are, aware that Images are series of pixels amalgamated in a bounding region, which, in mathematical terms is called a “Matrix”. 
 
 
-***But, How do I find Similar or Duplicate Images?
+But, How do I find Similar or Duplicate Images?
 
 Yes, It is indeed exciting! As said earlier, Image is usually represented as series of Integers in their respective channels. 
 Therefore, we would be evaluating the Integers / Pixel Values to find similarity between Images.
